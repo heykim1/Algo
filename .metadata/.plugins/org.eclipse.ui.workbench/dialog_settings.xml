@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-25"/>
+		<item key="DIALOG_Y_ORIGIN" value="10"/>
+		<item key="DIALOG_WIDTH" value="694"/>
+		<item key="DIALOG_HEIGHT" value="714"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".png"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="false"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="org.eclipse.ui.browser.editorSupport"/>
+	</section>
+</section>

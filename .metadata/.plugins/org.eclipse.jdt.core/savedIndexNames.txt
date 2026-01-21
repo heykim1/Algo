@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\newms\Desktop\ongoing\Algo\.metadata\.plugins\org.eclipse.jdt.core
+3957751468.index
+2920634722.index
+2706652600.index
+3009054434.index
+1865797976.index
+2824450041.index

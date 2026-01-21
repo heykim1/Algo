@@ -1,0 +1,12 @@
+
+
+import java.io.File;
+import java.util.Scanner;
+
+public class Solution {
+	public static void main(String[] args) throws Exception {
+//		File file = new File("./src/swea_/input_.txt");
+//		Scanner sc = new Scanner(file);
+		Scanner sc = new Scanner(System.in);
+	}
+}

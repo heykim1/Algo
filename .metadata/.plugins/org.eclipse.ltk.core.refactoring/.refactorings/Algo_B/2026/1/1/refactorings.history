@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;swea_병사관리&apos; to &apos;Algo_B/src/swea_병사관리&apos;&#x0D;&#x0A;- Original project: &apos;Algo_B&apos;&#x0D;&#x0A;- Destination element: &apos;Algo_B/src/swea_병사관리&apos;&#x0D;&#x0A;- Original element: &apos;Algo_B/src/swea_병사관리&apos;" description="Copy package" destination="/src&lt;swea_병사관리" element1="/src&lt;swea_병사관리" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1767340672865" version="1.0"/>
+</session>
